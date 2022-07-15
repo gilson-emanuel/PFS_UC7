@@ -11,3 +11,7 @@ git commit -m "descricao"         #comando utlizado para registrar os arquivos n
 git remote add origin "destino"   #comando para registrar o repositório online para onde eu quero enviar as versões do meus arquivos.
 
 git push -u origin mastar         #comando utlizado para publicar os meus arquivos da pasta que estão no último commit no repositório remoto.
+
+
+
+*exemplo de alteração*
